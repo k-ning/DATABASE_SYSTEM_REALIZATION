@@ -43,7 +43,7 @@ Chapter 6 - System Failure Solution
 	Section 6.2 - Undo Logging
 	Section 6.3 - Redo Logging
 	Section 6.4 - Undo/Redo Logging
-	Section 6.5 - Protection Aimed At Medium Failure  
+	Section 6.5 - Protection of Medium Failure  
 Chapter 7 - Concurrency Control
 	Section 7.1 - Serial Scheduling and Serializable Scheduling
 	Section 7.2 - Conflict Serializable
