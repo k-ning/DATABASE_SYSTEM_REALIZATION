@@ -37,7 +37,7 @@ Chapter 5 - Query Compiler
 	Section 5.4 - Operation Cost Estimation 
 	Section 5.5 - Plan Selection Introduction Based on Cost
 	Section 5.6 - Join Sequence Selection
-	Section 5.7 - Finish the Selection of Physical Query Plan  
+	Section 5.7 - Finish Selection Process of Physical Query Plan  
 Chapter 6 - System Failure Solution
 	Section 6.1 - Problem of Recoverable Operation and Model
 	Section 6.2 - Undo Logging
