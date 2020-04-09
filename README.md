@@ -47,7 +47,7 @@ Chapter 6 - System Failure Solution
 Chapter 7 - Concurrency Control
 	Section 7.1 - Serial Scheduling and Serializable Scheduling
 	Section 7.2 - Conflict Serializable
-	Section 7.3 - Serializable Realization by Using Locks
+	Section 7.3 - Serializable Realization by Locks
 	Section 7.4 - Locking System with Multi - Locking Model
 	Section 7.5 - One Architecture of Locking Scheduler
 	Section 7.6 - Level of Database Element
